@@ -11,9 +11,8 @@ Built with the OpenAI SDK.
 **Requirements:** Python ≥ 3.14, `uv` for dependency management, and an OpenAI API key.
 
 ```bash
-python -m venv .venv
-source .venv/bin/activate
-uv sync
+uv sync                                                                                                                                                                                                                                                                                                                   
+source .venv/bin/activate                                                                                                                                                                                                                                                                                                 
 
 export OPENAI_API_KEY=sk-...
 poe start  # or python -m ticketeer
