@@ -1,3 +1,10 @@
 
 .idea
 .venv
+
+# Build / packaging
+*.egg-info/
+dist/
+build/
+__pycache__/
+*.pyc
